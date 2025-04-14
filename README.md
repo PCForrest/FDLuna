@@ -18,4 +18,4 @@ All BMP (bitmap) textures have been replaced with DDS (Direct Draw Surface) equi
 
 As with the original code, every project has its own solution. For convenience, the FDLuna solution allows you to load all the projects at once; simply set the startup project to whichever project you are interested in. 
 
-The only other major change I've made is to move all unique assets (textures and models) into a single 'Assets' folder, thus elmininating the need for duplicate assets in this repository.
+The only other major change I've made is to move all unique assets (textures and models) into a single 'Assets' folder, thus eliminating the need for duplicate assets in this repository.
